@@ -1,2 +1,2 @@
 # ImagesOfMd
-This is a place to upload images used in md.
+This is a place to upload images used in lab.
